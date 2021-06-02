@@ -1,0 +1,16 @@
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\bin\Debug\net5.0\MyExtensions.exe
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\bin\Debug\net5.0\MyExtensions.deps.json
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\bin\Debug\net5.0\MyExtensions.runtimeconfig.json
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\bin\Debug\net5.0\MyExtensions.runtimeconfig.dev.json
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\bin\Debug\net5.0\MyExtensions.dll
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\bin\Debug\net5.0\ref\MyExtensions.dll
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\bin\Debug\net5.0\MyExtensions.pdb
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\obj\Debug\net5.0\MyExtensions.csproj.AssemblyReference.cache
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\obj\Debug\net5.0\MyExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\obj\Debug\net5.0\MyExtensions.AssemblyInfoInputs.cache
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\obj\Debug\net5.0\MyExtensions.AssemblyInfo.cs
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\obj\Debug\net5.0\MyExtensions.csproj.CoreCompileInputs.cache
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\obj\Debug\net5.0\MyExtensions.dll
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\obj\Debug\net5.0\ref\MyExtensions.dll
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\obj\Debug\net5.0\MyExtensions.pdb
+C:\Users\cagatay\source\repos\MyExtensions\MyExtensions\obj\Debug\net5.0\MyExtensions.genruntimeconfig.cache
